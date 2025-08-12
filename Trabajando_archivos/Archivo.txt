@@ -1,0 +1,5 @@
+Los nombres y apellidos son:
+Nombre: sapa     Apellido: 1
+Nombre: perrra1     Apellido: a
+Nombre: estoy      Apellido: mejorando
+Nombre: el     Apellido: python
