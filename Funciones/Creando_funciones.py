@@ -18,7 +18,7 @@ def saludar_dinamico(nombre, sexo):
     print(f"Hola {nombre}, ¿como andas {adjetivo}?, ¿queres algo de comer?")
     
 saludar_dinamico("Diego", "Hombre")
-saludar_dinamico("Valerie", "Mujer")
+saludar_dinamico("Elizabeth","Mujer")
 saludar_dinamico("Elefante", "Indefinido")
 
 #Creando un afuncion con return, y puede retornar diferentes valores 
