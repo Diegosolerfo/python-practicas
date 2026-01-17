@@ -16,7 +16,7 @@ print(list(impares))
 #Otro ejemplo
 gente = {
     "diego": "M",
-    "valerie": "F",
+    "Elizabet": "F",
     "pilar": "F", 
     "pedro": "M",
     "danna": "F",
